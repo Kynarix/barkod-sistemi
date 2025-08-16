@@ -13,8 +13,6 @@ Modern ve kullanıcı dostu bir barkod yönetim sistemi. React frontend ve Node.
 - 🌙 **Karanlık Mod**: Göz dostu karanlık tema
 - 📱 **Responsive Tasarım**: Mobil ve tablet uyumlu
 
-## Teknolojiler
-
 ### Frontend
 - React 18
 - Modern CSS3
@@ -31,7 +29,6 @@ Modern ve kullanıcı dostu bir barkod yönetim sistemi. React frontend ve Node.
 
 ### Gereksinimler
 - Node.js (v14 veya üzeri)
-- npm veya yarn
 
 ### Adımlar
 
@@ -87,31 +84,9 @@ Modern ve kullanıcı dostu bir barkod yönetim sistemi. React frontend ve Node.
 ### Dashboard
 - `GET /api/dashboard` - Dashboard istatistikleri
 
-## Proje Yapısı
-
-```
-barkod-sistemi/
-├── client/                 # React Frontend
-│   ├── public/
-│   ├── src/
-│   │   ├── components/     # React bileşenleri
-│   │   ├── pages/         # Sayfa bileşenleri
-│   │   ├── App.js
-│   │   └── index.js
-│   └── package.json
-├── server.js              # Express Backend
-├── package.json           # Backend bağımlılıkları
-├── barkod_sistem.db      # SQLite veritabanı
-└── README.md
-```
-
 ## Katkıda Bulunma
 
 1. Fork yapın
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add some amazing feature'`)
-4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
 
 ## Lisans
 
@@ -119,8 +94,6 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## İletişim
 
-Proje hakkında sorularınız için issue açabilirsiniz.
+Discord: kynarix
 
 ---
-
-**Not**: Bu sistem eğitim ve geliştirme amaçlı hazırlanmıştır. Üretim ortamında kullanmadan önce güvenlik ve performans testlerini yapınız.
