@@ -34,7 +34,7 @@ Modern ve kullanıcı dostu bir barkod yönetim sistemi. React frontend ve Node.
 
 1. **Projeyi klonlayın**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Kynarix/barkod-sistemi.git
    cd barkod-sistemi
    ```
 
